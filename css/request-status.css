@@ -1,0 +1,27 @@
+.mainPage {
+    margin-bottom: 20%;
+}
+.mainPage h3 {
+    background-color: #f2f2f2;
+    padding: 20px;
+    color: #2e86de; 
+    margin-top: 10px;
+}
+.mainPage h3:hover {
+    background-color: #d8d8d8;
+}
+.mainPage a:hover {
+    text-decoration: none;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    color: #ffffff;
+    background-color: #2e86de;
+}
+.form-check-inline .form-check-input {
+    position: static;
+    margin-top: 0;
+    margin-right: .3125rem;
+    margin-left: 10px;
+}

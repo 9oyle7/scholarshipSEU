@@ -1,0 +1,28 @@
+.mainPage {
+    margin-bottom: 10%;
+}
+.mainPage h3 {
+    background-color: #f2f2f2;
+    padding: 20px;
+    color: #2e86de; 
+    margin-top: 10px;
+}
+.mainPage h3:hover {
+    background-color: #d8d8d8;
+}
+.mainPage a:hover {
+    text-decoration: none;
+}
+.mainPage .list-decision {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.9;
+    list-style: disc;
+    color: #2e86de;
+}
+.mainPage .list-decision a {
+    color: #2e86de;
+}
+.mainPage .list-decision a:hover {
+    color: #2c68a5;
+}

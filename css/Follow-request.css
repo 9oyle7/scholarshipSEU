@@ -1,0 +1,23 @@
+.mainPage {
+    margin-bottom: 20%;
+}
+.mainPage h3 {
+    background-color: #f2f2f2;
+    padding: 20px;
+    color: #2e86de; 
+    margin-top: 10px;
+}
+.mainPage h3:hover {
+    background-color: #d8d8d8;
+}
+.mainPage a:hover {
+    text-decoration: none;
+}
+form {
+    width: auto;
+    margin: 0 auto;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}

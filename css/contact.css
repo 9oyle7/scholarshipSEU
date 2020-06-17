@@ -1,0 +1,22 @@
+.mainPage {
+    margin-bottom: 10%;
+}
+.mainPage h3 {
+    background-color: #f2f2f2;
+    padding: 20px;
+    color: #2e86de; 
+    margin-top: 10px;
+}
+.mainPage h3:hover {
+    background-color: #d8d8d8;
+}
+.mainPage a:hover {
+    text-decoration: none;
+}
+.table .thead-light th {
+    width: 50%;
+}
+.table {
+    border-bottom: 1px solid #dee2e6;
+}
+
